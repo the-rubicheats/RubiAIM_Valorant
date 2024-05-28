@@ -1,9 +1,9 @@
 # VALORANT  
-**Undetected external AIM** cheat using HSV color detection.  
+**Undetected external AIM** cheat using newly discovered exploit.  
 This will not mess with the addresses and memories of the game, it's 100% memory independent.  
   
 Customizable via menu.  
-- Open key is 'Insert', press it to oprn the cheat.  
+- Open key is 'Insert', press it to open the cheat.  
   
 ![preview](Screenshot_1.png)    
  
