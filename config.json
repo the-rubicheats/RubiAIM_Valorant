@@ -1,0 +1,9 @@
+{
+    "aim_hotkey": "0x05",
+    "function_key": "f2",
+    "base_delay": 0.01,
+    "aim_delay": 40,
+    "color_tolerance": 70,
+    "color_rgb": "(250, 80, 250)",
+    "always_enabled": false
+}
