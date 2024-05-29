@@ -15,4 +15,4 @@ Select a 'Keybind' and alias it to Valorant as a seconday fire key.
 2) Find the Fire/Shoot Option:
     - by default the primary key is the left mouse button
     - the secondary it's not assigned (Bind it to any key, like 'P' ).
-3) Return to the software and click on ‘Activate AIM’ once and your configuration will be included.
+3) Return to the software and click on ‘Ativar AIM’ once and your configuration will be included.
