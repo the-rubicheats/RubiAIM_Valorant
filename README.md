@@ -1,5 +1,5 @@
 # VALORANT  
-**AIM externo não detectado** cheat usando exploração recém-descoberta.  
+**AIM externo não detectado** cheat usando exploit recém-descoberto.  
 Isso não vai mexer com os endereços e memórias do jogo, é 100% independente da memória.  
   
 Personalizável através do menu.  
